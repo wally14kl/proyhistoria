@@ -1,0 +1,23 @@
+*{
+    margin: 10px;
+}
+body{
+    background-color: gold;
+}
+h1{
+    color: crimson;
+    font-family: tahoma;
+    font-style: italic;
+}
+h2{
+    color: aqua;
+    font-style: italic;
+}
+img{
+    width: 300px;
+    height: 180px;
+}
+p{
+    color: blueviolet;
+    background-color: azure;
+}
